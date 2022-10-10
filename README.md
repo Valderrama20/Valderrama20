@@ -1,6 +1,7 @@
 <h4> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-Soy [Jose Garcia](https://github.com/Valderrama20/), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
+Soy [Jose Garcia](https://github.com/Valderrama20/), Desde pequeño descubri mi fascinacion por armar cosas desde cero, hoy en dia soy graduado del "Bootcamp de Henry"
+como "Full Stack Web Developer" lugar en cual pude potenciar y adquirir increibles habilides. Me desenvuelvo en diversas tecnologias tales como:
 
 ---
 
