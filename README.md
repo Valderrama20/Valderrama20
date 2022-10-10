@@ -32,11 +32,7 @@ Soy [Jose Garcia](https://github.com/Valderrama20/), I'm an experienced full sta
   <i>¡Conectémonos y charlemos! Encuéntrame en la web...</i>
   
    [![Linkedin Badge](https://img.shields.io/badge/-Jose_Garcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-garcia-025766241/)](https://www.linkedin.com/in/jose-garcia-025766241/) 
-   [![Medium Badge](https://img.shields.io/badge/-@v.anushka786-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@v.anushka786)](https://medium.com/@v.anushka786) 
-   [![Gmail Badge](https://img.shields.io/badge/-v.anushka786-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.anushka786@gmail.com)](mailto:v.anushka786@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@v_anushkaa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/v_anushkaa/)](https://instagram.com/v_anushkaa) 
-   [![Facebook Badge](https://img.shields.io/badge/-verma_anushka-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100022118525351)](https://www.facebook.com/profile.php?id=100022118525351)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-verma_anushka-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/verma_anushka/articles)](https://auth.geeksforgeeks.org/user/verma_anushka/articles)
+   [![Gmail Badge](https://img.shields.io/badge/-jose23122009-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose23122009@gmail.com)](mailto:jose23122009@gmail.com)
 
   
   <p align="center">
