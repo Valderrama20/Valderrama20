@@ -5,7 +5,7 @@ Soy [Jose Garcia](https://github.com/Valderrama20/), Desde pequeño descubrí mi
 
 ---
 
-**lenguajes **
+**lenguajes**
 
 <p align="center">
 
