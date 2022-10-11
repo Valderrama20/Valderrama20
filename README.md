@@ -1,5 +1,5 @@
 
-<h4> ¡Hola! <img src="https://github.com/Valderrama20/Valderrama20/blob/main/Picsart_22-10-11_19-40-30-896.png" width="30px"></h4>
+ <img src="https://github.com/Valderrama20/Valderrama20/blob/main/Picsart_22-10-11_19-40-30-896.png" width="30px">
 
 <h4> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
