@@ -1,23 +1,24 @@
 
 
-<h4> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h1> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Soy Jose Garcia <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&right=true&vCenter=true&width=438&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
+</h1></h1>
 
-Soy [Jose Garcia](https://github.com/Valderrama20/), Desde pequeño descubrí mi fascinación por construir cosas desde cero, hoy en día soy graduado del 
+Desde pequeño descubrí mi fascinación por construir cosas desde cero, hoy en día soy graduado del 
 "Bootcamp de Henry" como "Full Stack Web Developer" lugar en el cual pude potenciar y adquirir increíbles habilidades desenvolviéndome en diversos lenguajes y multiples tecnologias tales como:
 
 ---
 
-**lenguajes y tecnologias**
-
+<h2>:fire: lenguajes y tecnologias</h2>
 <p align="center">
-
-  <div align="center">
   
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,vite)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=express,fastapi,firebase,mongodb,nodejs,postgres,sequelize)](https://skillicons.dev)
 
-  </div>
-  </p>
-  
+[![My Skills](https://skillicons.dev/icons?i=git,github,heroku,netlify,vercel,npm,pnpm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,postman,vscode)](https://skillicons.dev) 
+</p>
 ---
 
 **Github Stats:**
