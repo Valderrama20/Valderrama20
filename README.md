@@ -3,8 +3,13 @@
 <h1> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Soy Jose Garcia <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&right=true&vCenter=true&width=438&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
 </h1></h1>
 
-Desde pequeño descubrí mi fascinación por construir cosas desde cero, hoy en día soy graduado del 
-"Bootcamp de Henry" como "Full Stack Web Developer" lugar en el cual pude potenciar y adquirir increíbles habilidades desenvolviéndome en diversos lenguajes y multiples tecnologias tales como:
+Desde joven, siempre me ha fascinado la idea de crear y construir cosas desde cero. Esta pasión me llevó a emprender un viaje académico y profesional que culminó en mi graduación del Bootcamp de Henry como Full Stack Web Developer. En este programa de formación, no solo adquirí conocimientos teóricos, sino que también desarrollé habilidades prácticas en una amplia gama de tecnologías.
+
+Durante mi tiempo en el Bootcamp, me especialicé en el desarrollo de aplicaciones web utilizando diversos lenguajes y herramientas, incluyendo JavaScript, React, Node.js, y Express, entre otros. Aprendí a trabajar con bases de datos SQL, implementé soluciones de diseño responsivo y adquirí experiencia en la construcción de APIs RESTful.
+
+Además, mi experiencia en proyectos colaborativos me permitió perfeccionar mis habilidades en metodologías ágiles como Scrum, gestionando eficientemente el tiempo y los recursos del equipo para entregar productos de alta calidad. Mi formación me ha preparado para enfrentar desafíos complejos y crear soluciones innovadoras en el campo del desarrollo web.
+
+Hoy en día, estoy entusiasmado por aplicar mis habilidades y conocimientos en nuevos proyectos, siempre buscando oportunidades para seguir aprendiendo y contribuyendo al crecimiento de la tecnología web.
 
 ---
 
