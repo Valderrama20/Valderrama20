@@ -5,8 +5,10 @@
 
 Desde joven, siempre me ha fascinado la idea de crear y construir cosas desde cero. Esta pasión me llevó a graduarme del **Bootcamp de Henry** como **Desarrollador Web Full Stack**, donde combiné aprendizaje teórico con experiencia práctica en una amplia gama de tecnologías modernas.  
 
+A lo largo de mi trayectoria, he participado en **diversas hackatones enfocadas en Web3**, colaborado en proyectos, realizado **prácticas en empresas** y completado **formaciones profesionales** para seguir perfeccionando mis habilidades en el desarrollo web y tecnológico.  
+
 ## 💻 Experiencia en proyectos  
-Durante mi formación, desarrollé aplicaciones web completas trabajando tanto de manera individual como en equipo, perfeccionando habilidades como:  
+Desarrollé aplicaciones web completas trabajando tanto de manera individual como en equipo, perfeccionando habilidades como:  
 - Implementación de soluciones eficientes e innovadoras  
 - Gestión del tiempo y recursos en entornos colaborativos  
 - Construcción de productos finales de alta calidad  
