@@ -3,13 +3,16 @@
 <h1> ¡Hola! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> Soy Jose Garcia <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&right=true&vCenter=true&width=438&lines=Full+Stack+Web+Developer" alt="Typing SVG" />
 </h1></h1>
 
-Desde joven, siempre me ha fascinado la idea de crear y construir cosas desde cero. Esta pasión me llevó a emprender un viaje académico y profesional que culminó en mi graduación del Bootcamp de Henry como Full Stack Web Developer. En este programa de formación, no solo adquirí conocimientos teóricos, sino que también desarrollé habilidades prácticas en una amplia gama de tecnologías.
+Desde joven, siempre me ha fascinado la idea de crear y construir cosas desde cero. Esta pasión me llevó a graduarme del **Bootcamp de Henry** como **Desarrollador Web Full Stack**, donde combiné aprendizaje teórico con experiencia práctica en una amplia gama de tecnologías modernas.  
 
-Durante mi tiempo en el Bootcamp, me especialicé en el desarrollo de aplicaciones web utilizando diversos lenguajes y herramientas, incluyendo JavaScript, React, Node.js, y Express, entre otros. Aprendí a trabajar con bases de datos SQL, implementé soluciones de diseño responsivo y adquirí experiencia en la construcción de APIs RESTful.
+## 💻 Experiencia en proyectos  
+Durante mi formación, desarrollé aplicaciones web completas trabajando tanto de manera individual como en equipo, perfeccionando habilidades como:  
+- Implementación de soluciones eficientes e innovadoras  
+- Gestión del tiempo y recursos en entornos colaborativos  
+- Construcción de productos finales de alta calidad  
 
-Además, mi experiencia en proyectos colaborativos me permitió perfeccionar mis habilidades en metodologías ágiles como Scrum, gestionando eficientemente el tiempo y los recursos del equipo para entregar productos de alta calidad. Mi formación me ha preparado para enfrentar desafíos complejos y crear soluciones innovadoras en el campo del desarrollo web.
-
-Hoy en día, estoy entusiasmado por aplicar mis habilidades y conocimientos en nuevos proyectos, siempre buscando oportunidades para seguir aprendiendo y contribuyendo al crecimiento de la tecnología web.
+## 🌟 Objetivos  
+Hoy en día, estoy entusiasmado por aplicar mis conocimientos en **nuevos desafíos** y contribuir al crecimiento de la tecnología web. Siempre estoy en busca de **aprendizaje continuo** y **proyectos interesantes** que me permitan dejar huella en el mundo del desarrollo.  
 
 ---
 
@@ -26,15 +29,33 @@ Hoy en día, estoy entusiasmado por aplicar mis habilidades y conocimientos en n
 </p>
 ---
 
-**Github Stats:**
-
+<h2>:fire: Github Stats:</h2>
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Valderrama20&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valderrama20&count_private=true&theme=dracula">
-
-</p>
-
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
+    <div style="flex-basis: 95%; text-align: center;">
+        <!-- Stats para el modo oscuro (Izquierda) -->
+        <picture>
+            <source 
+                srcset="https://github-readme-stats.vercel.app/api?username=valderrama20&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&count_private=true&hide_border=true&count_private=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98" 
+                media="(prefers-color-scheme: dark)"
+            />
+            <!-- Fallback para el modo claro -->
+            <img 
+                src="https://github-readme-stats.vercel.app/api?username=valderrama20&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&hide_border=true&count_private=true&theme=default" 
+                alt="Github stats" width="55%" align="top-center"/>
+        </picture>
+        <!-- Top Languages para el modo oscuro (Derecha) -->
+        <picture>
+            <source 
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valderrama20&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
+                media="(prefers-color-scheme: dark)"
+            />
+            <!-- Fallback para el modo claro -->
+            <img 
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&langs_count=5&hide_border=true&theme=default" 
+                alt="Most used languages" width="40%" align="top-center"/>
+        </picture>
+    </div>
 ---
 
 <p align="center">
