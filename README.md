@@ -33,31 +33,11 @@ Hoy en d√≠a, estoy entusiasmado por aplicar mis conocimientos en **nuevos desaf√
 
 <h2>:fire: Github Stats:</h2>
 <p align="center">
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-    <div style="flex-basis: 95%; text-align: center;">
-        <!-- Stats para el modo oscuro (Izquierda) -->
-        <picture>
-            <source 
-                srcset="https://github-readme-stats.vercel.app/api?username=valderrama20&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&count_private=true&hide_border=true&count_private=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98" 
-                media="(prefers-color-scheme: dark)"
-            />
-            <!-- Fallback para el modo claro -->
-            <img 
-                src="https://github-readme-stats.vercel.app/api?username=valderrama20&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&hide_border=true&count_private=true&theme=default" 
-                alt="Github stats" width="55%" align="top-center"/>
-        </picture>
-        <!-- Top Languages para el modo oscuro (Derecha) -->
-        <picture>
-            <source 
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=valderrama20&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
-                media="(prefers-color-scheme: dark)"
-            />
-            <!-- Fallback para el modo claro -->
-            <img 
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=valderrama20&layout=compact&langs_count=5&hide_border=true&theme=default" 
-                alt="Most used languages" width="40%" align="top-center"/>
-        </picture>
-    </div>
+<a href="https://github.com/Valderrama20">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Valderrama20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Valderrama20&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 ---
 
 <p align="center">
